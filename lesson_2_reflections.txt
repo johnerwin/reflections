@@ -6,3 +6,4 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is used to store files that will be included in the commit.
 
+Just making a change to commit
