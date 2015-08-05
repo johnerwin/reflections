@@ -7,3 +7,15 @@ How is the staging area different from the working directory and the repository?
 The staging area is used to store files that will be included in the commit.
 
 Just making a change to commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Add one file at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help when experimental features or different versions are being developed.  The master branch can remain in tact while changes are being tested / developed in other branches.
+
+How do the diagrams help you visualize the branch structure?
+
+It's easier to see where certain commits become disconnected from other branches.
